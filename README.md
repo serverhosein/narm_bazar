@@ -19,7 +19,7 @@
     "عکس۷": "https://s18.picofile.com/file/8433354726/logo4_21_124130.png",
     "عکس۸": "https://s18.picofile.com/file/8433354592/com_besome_sketch_4cd77d31_5f83_491e_a58c_fd0bc7912b41.png",
     "عکس۹": "https://s18.picofile.com/file/8433354618/com_mtni_myirancell_512x512.png",
-    "عکس۱۰": "https://images.app.goo.gl/PFChyNAbrpNnNdop6",
+    "عکس۱۰": "https://s19.picofile.com/file/8434226650/MyMci_icon.png",
     "موضوع": "نرم بازار"
   },
   {
