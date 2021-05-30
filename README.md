@@ -20,7 +20,8 @@
     "عکس۸": "https://s18.picofile.com/file/8433354592/com_besome_sketch_4cd77d31_5f83_491e_a58c_fd0bc7912b41.png",
     "عکس۹": "https://s18.picofile.com/file/8433354618/com_mtni_myirancell_512x512.png",
     "عکس۱۰": "https://s19.picofile.com/file/8434226650/MyMci_icon.png",
-    "موضوع": "نرم بازار"
+    "موضوع": "نرم بازار",
+    "ستاره۱": "\u003c!-- Rating by www.1abzar.com ---\u003e\n\u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/rating/rating.php?color\u003d102410\u0026bg\u003d4CAF50\u0026kc\u003d555555\u0026h\u003d1\u0026kadr\u003d0\u0026n\u003d5\u0026mod\u003d7\u0026abzar\u003dv8kt5qrrzn00mfiy8jib\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch2\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/rating.php\"\u003e\u0026#1575;\u0026#1576;\u0026#1586;\u0026#1575;\u0026#1585; \u0026#1575;\u0026#1605;\u0026#1578;\u0026#1740;\u0026#1575;\u0026#1586; \u0026#1583;\u0026#1607;\u0026#1740;\u003c/a\u003e\u003c/h2\u003e\u003c/div\u003e\n\u003c!-- Rating by www.1abzar.com ---\u003e"
   },
   {
     "نام۱": "روبیکا",
